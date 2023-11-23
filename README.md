@@ -36,5 +36,12 @@ Contribuições são bem-vindas! Sinta-se à vontade para sugerir melhorias, cor
 Créditos:
 Este jogo foi desenvolvido como parte de um projeto prático e é fornecido como código aberto para fins educacionais e de aprendizado.
 
+
+Compilando o projeto: 
+
+gcc -o projetinho projetinho.c -lncurses
+./projetinho
+///
+
 Divirta-se jogando! 🐍
 Atenciosamente : Lucas Dias, Jorge Dias e Luís Felipe
